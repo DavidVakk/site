@@ -1,0 +1,31 @@
+<html>
+    <title>ПИТОМЦЫ</title>
+    <body style="background-color:#B0C4DE">
+        <a href="#dog">СОБАКИ</a>
+        <a href="#cat">КОШКИ</a>
+        <a href="#hamster">ХОМЯЧКИ</a>
+        <a href="#rabbit">КРОЛИКИ</a>
+        <h1 id="dog" style="text-align:center;font-family:sans-serif;color:#DDA0DD">СОБАКИ</h1>
+        <img src="https://i.pinimg.com/736x/1a/47/20/1a47203048982766221f600930c89eab.jpg"width="130px"height="140px"/>
+        <p style="text-align:center;color:#DB7093;font-size:50px"><b>Они такие милые</b></p>
+        <img src="https://electropastyx.ru/wa-data/public/blog/img/11-18.png"width="600px"height="400px"/>
+        <img src="https://avatars.mds.yandex.net/i?id=216510c1b649d08b6cb433c4e3ffb27e7f9b7a52-12400592-images-thumbs&n=13"width="600px"height="600px"/>
+        <h1 id="cat" style="color:#F4CCCC;text-align:center;font-family:sans-serif"><b>КОШКИ</b></h1>
+        <img src="https://avatars.mds.yandex.net/i?id=d3fd32f85db529b48eea20cba13ca93900189c72-4824334-images-thumbs&n=13"/>
+        <img src="https://avatars.mds.yandex.net/i?id=54451cb968d036caa251dba958af7d6143466589-10876343-images-thumbs&n=13"/>
+         <p style="text-align:center;color:#D9D2E9;font-size:50px"><b>Они такие красивые</b></p>
+        <img src="https://i.pinimg.com/736x/1a/47/20/1a47203048982766221f600930c89eab.jpg"width="130px"height="140px"/>
+        <h1 id="hamster" style="text-align:center;font-family:sans-serif;color:#D2B48C">ХОМЯЧКИ</h1>
+        <img src="https://i.pinimg.com/736x/32/c1/10/32c11051210b5ff6703449a85041dfcc.jpg">
+        <img src="https://a.d-cd.net/cL1NL87zFKHkwO_OxbeqQIupoNE-1920.jpg"width="550px"height="550px">
+        <img src="https://cache3.youla.io/files/images/720_720_out/5d/38/5d38112813a31e6f4d7ddd02.jpg">
+        <h1 id="rabbit" style="text-align:center;font-family:sans-serif;color:#D8BFD8">КРОЛИКИ</h1>
+        <img src="https://avatars.mds.yandex.net/i?id=12ffd41e98a5cb58167b28e09683469a8f363357-5906549-images-thumbs&n=13">
+        <img src="https://yt3.googleusercontent.com/ytc/AIdro_lUAef4fVWE8AzZGScHIIyyu8g8fL37VZ46xX4fywH5zA=s900-c-k-c0x00ffffff-no-rj"width="500px"height="500px">
+        <p style="color:#F08080;font-family:Bradley Hand">Вывод:все животные по своему красивые:</h1>
+        <a href="#dog">СОБАКИ</a>
+        <a href="#cat">КОШКИ</a>
+        <a href="#hamster">ХОМЯЧКИ</a>
+        <a href="#rabbit">КРОЛИКИ</a>
+              </html> 
+    </body>
